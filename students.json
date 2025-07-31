@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "role": "student",
+      "username": "student",
+      "password": "student123",
+      "name": "Rahul Sharma",
+      "rollNo": "101",
+      "marks": {
+        "Math": 85,
+        "Science": 78,
+        "English": 90,
+        "History": 75,
+        "Computer": 88
+      }
+    },
+    {
+      "role": "teacher",
+      "username": "teacher",
+      "password": "teacher123",
+      "name": "Mr. Verma"
+    }
+  ]
+}
